@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 July, 2020 - 23 July, 2020
+Week: 17 July, 2020 - 24 July, 2020
 
 YAML         8 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   27.86 % 
 JavaScript   6 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
