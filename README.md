@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 July, 2020 - 26 July, 2020
+Week: 20 July, 2020 - 27 July, 2020
 
-JavaScript   5 hrs 59 mins   ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-TypeScript   3 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.09 % 
-YAML         3 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-JSX          2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-JSON         1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+TypeScript   3 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   26.21 % 
+JavaScript   3 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+YAML         2 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   19.35 % 
+JSON         1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Vue.js       1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.36 %
 ```
 <!--END_SECTION:waka-->
