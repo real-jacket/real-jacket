@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 July, 2020 - 01 August, 2020
+Week: 26 July, 2020 - 02 August, 2020
 
 JavaScript   8 hrs 12 mins   █████████████████████░░░░   87.39 % 
 JSON         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
