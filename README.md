@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2020 - 20 August, 2020
+Week: 14 August, 2020 - 21 August, 2020
 
-JavaScript   6 hrs 50 mins   ████████████▒░░░░░░░░░░░░   49.13 % 
-Vue.js       3 hrs 44 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.89 % 
-JSON         1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-TypeScript   56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-HTML         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+JavaScript   8 hrs 32 mins   ████████████████▒░░░░░░░░   65.70 % 
+JSON         1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Vue.js       1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+TypeScript   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+HTML         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 <!--END_SECTION:waka-->
