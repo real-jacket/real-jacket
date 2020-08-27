@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 August, 2020 - 25 August, 2020
+Week: 19 August, 2020 - 26 August, 2020
 
-JavaScript        5 hrs 43 mins   █████████████░░░░░░░░░░░░   52.48 % 
-Go                1 hr 42 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Vue.js            45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-TypeScript        42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Protocol Buffer   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JavaScript        5 hrs 6 mins    ███████████▒░░░░░░░░░░░░░   45.92 % 
+Go                2 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.42 % 
+Protocol Buffer   1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+JSON              47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Makefile          34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 <!--END_SECTION:waka-->
