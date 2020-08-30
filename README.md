@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2020 - 28 August, 2020
+Week: 22 August, 2020 - 29 August, 2020
 
 Go                6 hrs 1 min     ███████████░░░░░░░░░░░░░░   43.79 % 
 CSS               1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
