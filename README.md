@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2020 - 30 August, 2020
+Week: 24 August, 2020 - 31 August, 2020
 
-Go                6 hrs 1 min     ███████████░░░░░░░░░░░░░░   43.79 % 
-CSS               1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Makefile          1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Protocol Buffer   1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-JavaScript        1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Go                6 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   43.06 % 
+Docker            2 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+CSS               1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Makefile          1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Protocol Buffer   1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 <!--END_SECTION:waka-->
