@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2020 - 03 September, 2020
+Week: 28 August, 2020 - 04 September, 2020
 
-Go                6 hrs 43 mins   █████████████░░░░░░░░░░░░   51.98 % 
-Docker            2 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 % 
-Makefile          1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Other             31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Protocol Buffer   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Go         5 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   45.68 % 
+Docker     2 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
+Makefile   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Vue.js     45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Other      33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 ```
 <!--END_SECTION:waka-->
