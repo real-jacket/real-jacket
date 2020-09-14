@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2020 - 12 September, 2020
+Week: 06 September, 2020 - 13 September, 2020
 
-Go           8 hrs 12 mins   ███████████████████▒░░░░░   76.93 % 
-YAML         56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-JavaScript   53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Go           8 hrs 12 mins   ██████████████████░░░░░░░   72.36 % 
+JavaScript   1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+YAML         56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 <!--END_SECTION:waka-->
