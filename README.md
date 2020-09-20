@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 September, 2020 - 18 September, 2020
+Week: 12 September, 2020 - 19 September, 2020
 
 Go           4 hrs 59 mins   ███████████▓░░░░░░░░░░░░░   47.13 % 
 Markdown     2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
