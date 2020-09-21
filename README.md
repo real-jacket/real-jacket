@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2020 - 19 September, 2020
+Week: 13 September, 2020 - 20 September, 2020
 
-Go           4 hrs 59 mins   ███████████▓░░░░░░░░░░░░░   47.13 % 
-Markdown     2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-JavaScript   1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Other        42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-YAML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Go           4 hrs 59 mins   ████████████▓░░░░░░░░░░░░   50.33 % 
+Markdown     2 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.17 % 
+JavaScript   54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Other        42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+YAML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 <!--END_SECTION:waka-->
