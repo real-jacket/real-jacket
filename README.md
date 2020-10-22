@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 October, 2020 - 20 October, 2020
+Week: 14 October, 2020 - 21 October, 2020
 
-JavaScript   14 hrs 8 mins   ████████████████▒░░░░░░░░   65.80 % 
-Vue.js       2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-HTML         1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Markdown     1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-TypeScript   1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+JavaScript   14 hrs 27 mins  █████████████████░░░░░░░░   67.79 % 
+HTML         1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+TypeScript   1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Markdown     1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Vue.js       1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 <!--END_SECTION:waka-->
