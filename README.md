@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2020 - 11 November, 2020
+Week: 05 November, 2020 - 12 November, 2020
 
-Vue.js       16 hrs 40 mins  ██████████████▓░░░░░░░░░░   58.05 % 
-JavaScript   9 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   34.00 % 
-TypeScript   51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-HTML         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Vue.js       17 hrs 25 mins  ██████████████▓░░░░░░░░░░   58.98 % 
+JavaScript   9 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.75 % 
+TypeScript   53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
