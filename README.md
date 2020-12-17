@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 December, 2020 - 15 December, 2020
+Week: 09 December, 2020 - 16 December, 2020
 
-Vue.js       9 hrs 51 mins   ███████████████▒░░░░░░░░░   60.73 % 
-TypeScript   3 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-JavaScript   2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-JSON         52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Vue.js       10 hrs 52 mins  ██████████████░░░░░░░░░░░   56.09 % 
+TypeScript   4 hrs 36 mins   ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+JavaScript   2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+JSON         1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 <!--END_SECTION:waka-->
