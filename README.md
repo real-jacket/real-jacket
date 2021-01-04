@@ -23,11 +23,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2020 - 02 January, 2021
+Week: 27 December, 2020 - 03 January, 2021
 
-TypeScript   1 hr 30 mins    ██████████████▒░░░░░░░░░░   56.86 % 
-Vue.js       57 mins         █████████░░░░░░░░░░░░░░░░   36.00 % 
-JavaScript   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+TypeScript   1 hr 30 mins    ███████████████▒░░░░░░░░░   61.03 % 
+Vue.js       46 mins         ███████▓░░░░░░░░░░░░░░░░░   31.32 % 
+JavaScript   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 <!--END_SECTION:waka-->
