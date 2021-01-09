@@ -23,6 +23,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 January, 2021 - 08 January, 2021
+
+Bash         22 mins         ████████████████░░░░░░░░░   64.51 % 
+JSON         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+JavaScript   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+TypeScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 <!--END_SECTION:waka-->
