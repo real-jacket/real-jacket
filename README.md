@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2021 - 13 February, 2021
+Week: 07 February, 2021 - 14 February, 2021
 
-JSX          15 hrs 6 mins   ████████████████▒░░░░░░░░   65.88 % 
-JavaScript   5 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.87 % 
-TypeScript   1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-JSON         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JSX          7 hrs 53 mins   ████████████░░░░░░░░░░░░░   47.53 % 
+JavaScript   5 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.29 % 
+TypeScript   2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+JSON         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 <!--END_SECTION:waka-->
