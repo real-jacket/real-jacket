@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 May, 2021 - 04 June, 2021
+Week: 29 May, 2021 - 05 June, 2021
 
-JavaScript   22 hrs 37 mins  ███████████████▒░░░░░░░░░   60.82 % 
-TypeScript   11 hrs 51 mins  ████████░░░░░░░░░░░░░░░░░   31.88 % 
-SCSS         1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Markdown     46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-JSON         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JavaScript   24 hrs 58 mins  █████████████████░░░░░░░░   68.53 % 
+TypeScript   9 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.17 % 
+SCSS         1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Markdown     34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 <!--END_SECTION:waka-->
