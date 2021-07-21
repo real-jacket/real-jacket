@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2021 - 19 July, 2021
+Week: 14 July, 2021 - 20 July, 2021
 
-JavaScript   18 hrs 5 mins   ██████████████████▓░░░░░░   74.84 % 
-HTML         2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-TypeScript   2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Markdown     42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-JSON         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JavaScript   14 hrs 51 mins  ██████████████████░░░░░░░   72.25 % 
+TypeScript   1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Markdown     1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+YAML         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 <!--END_SECTION:waka-->
