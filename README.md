@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 July, 2021 - 22 July, 2021
+Week: 17 July, 2021 - 23 July, 2021
 
-JavaScript   12 hrs 24 mins  ██████████████░░░░░░░░░░░   56.15 % 
-Go           3 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-TypeScript   2 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-YAML         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Markdown     47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+JavaScript   7 hrs 43 mins   █████████▓░░░░░░░░░░░░░░░   39.14 % 
+Go           6 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   31.11 % 
+TypeScript   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+YAML         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Ruby         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 <!--END_SECTION:waka-->
