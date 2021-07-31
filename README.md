@@ -9,7 +9,7 @@
 - 🔭 我目前在主要是在使用vue 相关技术栈进行日常开发工作，业余时间主要学习 React及 TypeScript、Node，现在正在写一个 react 的 UI 库 
 - 🌱 我目前在学习 React、TypeScript、Go、CI/CD等语言与技术
 - 👯 我希望能参与一些能够提高幸福感的小工具项目
-- 💬 我们可以一起交流学习，可以通过在这个 profile 仓库提 issue 联系我，或者加我的微信(wechat）
+- 💬 我们可以一起交流学习，可以通过在这个 profile 仓库提 issue 联系我，或者加我的微信(wechat：ke1762982273）
 
 ***
 
