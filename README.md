@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 August, 2021 - 18 August, 2021
+Week: 13 August, 2021 - 19 August, 2021
 
-TypeScript   22 hrs 49 mins  █████████████████▒░░░░░░░   69.34 % 
-JSON         5 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Go           3 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-JavaScript   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-SCSS         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+TypeScript   23 hrs 34 mins  ██████████████████░░░░░░░   72.57 % 
+JSON         3 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Go           3 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+JavaScript   34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+SCSS         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 <!--END_SECTION:waka-->
