@@ -23,12 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2022 - 17 January, 2022
+Week: 12 January, 2022 - 18 January, 2022
 
-TypeScript   11 hrs 15 mins  ███████████████▓░░░░░░░░░   62.98 % 
-JSON         4 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-JavaScript   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-HTML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Rust         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+TypeScript   7 hrs 12 mins   ████████████▓░░░░░░░░░░░░   50.19 % 
+JSON         4 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   34.59 % 
+JavaScript   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+HTML         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Rust         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 <!--END_SECTION:waka-->
