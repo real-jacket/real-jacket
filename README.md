@@ -23,6 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 February, 2022 - 11 February, 2022
+
+TypeScript   3 hrs 9 mins    ████████████████████▒░░░░   81.44 % 
+JavaScript   30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 <!--END_SECTION:waka-->
