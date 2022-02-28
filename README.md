@@ -22,13 +22,14 @@
 ### My code time
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-TypeScript   6 hrs 48 mins   █████████████▓░░░░░░░░░░░   54.86 % 
-JSON         2 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.94 % 
-JavaScript   2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Other        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+TypeScript   9 hrs 8 mins    ███████████████░░░░░░░░░░   60.11 %
+JSON         3 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
+JavaScript   2 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
+
 <!--END_SECTION:waka-->
