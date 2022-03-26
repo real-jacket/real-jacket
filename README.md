@@ -15,7 +15,8 @@
 
 ### My gtihub stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=real-jacket)](https://github.com/anuraghazra/github-readme-stats)
+<a><img src="https://github-readme-stats.vercel.app/api?username=real-jacket" title="xiaomu's GitHub stats" alt="xiaomu's GitHub stats" style="width:53%;"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-jacket&layout=compact" title="xiaomu's GitHub laguage" alt="xiaomu's GitHub laguage" style="width:44.3%%;"/><a/>
 
 ***
 
