@@ -25,14 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2022 - To: 02 April 2022
+From: 27 March 2022 - To: 03 April 2022
 
-TypeScript   8 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   31.24 %
-JavaScript   4 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-Markdown     4 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-Bash         4 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-TOML         1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Other        1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+TypeScript   8 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   40.98 %
+JavaScript   4 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
+Bash         4 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+Other        56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
