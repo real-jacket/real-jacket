@@ -25,14 +25,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 September 2022 - To: 21 September 2022
+From: 15 September 2022 - To: 22 September 2022
 
-TypeScript   32 hrs 38 mins  ██████████████████████░░░   88.01 %
-Vue.js       1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-SCSS         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Markdown     35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-LESS         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+TypeScript   33 hrs 10 mins  ██████████████████████▒░░   88.90 %
+Vue.js       1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+SCSS         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+LESS         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Markdown     25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
