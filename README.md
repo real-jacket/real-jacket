@@ -15,8 +15,8 @@
 
 ### My gtihub stats
 
-<a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=real-jacket" title="xiaomu's GitHub stats" alt="xiaomu's GitHub stats" style="width:51%;"/></a>
-<a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=real-jacket&layout=compact" title="xiaomu's GitHub laguage" alt="xiaomu's GitHub laguage" style="width:47%;"/><a/>
+<a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=real-jacket&&show_icons=true" title="xiaomu's GitHub stats" alt="xiaomu's GitHub stats" style="width:52%;"/></a>
+<a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=real-jacket&layout=compact" title="xiaomu's GitHub laguage" alt="xiaomu's GitHub laguage" style="width:46%;"/><a/>
 
 ***
 
