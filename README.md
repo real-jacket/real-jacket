@@ -25,9 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2023 - To: 05 May 2023
+From: 29 April 2023 - To: 06 May 2023
 
-No activity tracked
+TypeScript   2 hrs 56 mins   ████████████████▒░░░░░░░░   65.07 %
+Less         1 hr 32 mins    ████████▓░░░░░░░░░░░░░░░░   34.13 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
