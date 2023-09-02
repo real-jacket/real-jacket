@@ -25,13 +25,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-JavaScript   4 hrs 38 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
-TypeScript   3 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
-HTML         3 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-Go           1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Docker       1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+JavaScript     5 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.15 %
+TypeScript     5 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
+HTML           3 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Docker         2 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Go             1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 ```
 
 <!--END_SECTION:waka-->
