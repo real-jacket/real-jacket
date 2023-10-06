@@ -25,13 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2023 - To: 04 October 2023
+From: 28 September 2023 - To: 05 October 2023
 
-Bash         50 mins         ████████░░░░░░░░░░░░░░░░░   31.67 %
-TypeScript   38 mins         ██████░░░░░░░░░░░░░░░░░░░   23.86 %
-HTML         35 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
-Other        12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-Go           12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Ezhil   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
