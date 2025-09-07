@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2025 - To: 05 September 2025
+From: 30 August 2025 - To: 06 September 2025
 
 TypeScript   14 hrs 45 mins  █████████████████████░░░░   83.94 %
 JSON         2 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
