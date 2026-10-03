@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/profile-orbit-mobile.png" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-orbit.png" />
-  <source media="(max-width: 600px)" srcset="./assets/profile-orbit-mobile.gif" />
-  <img src="./assets/profile-orbit.gif" width="960" alt="xiaomu / real-jacket — Build tools. Make room for life." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/orbit-vector-mobile-still.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/orbit-vector-still.svg" />
+  <source media="(max-width: 600px)" srcset="./assets/orbit-vector-mobile.svg" />
+  <img src="./assets/orbit-vector.svg" width="960" alt="xiaomu / real-jacket — Build tools. Make room for life." />
 </picture>
 
 ### 从前端出发，探索软件的更多可能。
