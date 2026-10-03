@@ -57,13 +57,13 @@ CLI、自动化与 AI 辅助开发。让工具融入工作流，把时间留给�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2026 - To: 01 October 2026
+From: 25 September 2026 - To: 02 October 2026
 
-Swift        18 hrs 40 mins        ████████████▒░░░░░░░░░░░░   49.08 %
-Markdown     7 hrs 25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-Other        7 hrs 20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-Text         1 hr 37 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-TypeScript   1 hr 31 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Swift        13 hrs 36 mins        ███████████▒░░░░░░░░░░░░░   44.98 %
+Other        7 hrs 18 mins         ██████░░░░░░░░░░░░░░░░░░░   24.17 %
+Markdown     5 hrs 59 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+TypeScript   1 hr 31 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+JavaScript   55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
