@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+<title id="title">xiaomu / real-jacket — Build tools. Make room for life.</title>
+<desc id="desc">A terminal-inspired profile header. Web, native apps and developer tools.</desc>
+<rect width="960" height="280" rx="16" fill="#0d1117"/>
+<rect x=".5" y=".5" width="959" height="279" rx="15.5" fill="none" stroke="#30363d"/>
+<path d="M0 48h960" stroke="#30363d"/>
+<g fill="#484f58"><circle cx="28" cy="24" r="5"/><circle cx="46" cy="24" r="5"/><circle cx="64" cy="24" r="5"/></g>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<text x="92" y="29" fill="#8b949e" font-size="13">~/real-jacket</text>
+<text x="908" y="29" text-anchor="end" fill="#7ee7b5" font-size="12">PROFILE.md</text>
+<text x="40" y="91" fill="#7ee7b5" font-size="15">$ whoami</text>
+<text x="38" y="150" fill="#f0f6fc" font-size="49" font-weight="700" letter-spacing="-2">xiaomu<tspan fill="#484f58"> / </tspan><tspan fill="#a5b4fc" font-size="36">real-jacket</tspan></text>
+<text x="40" y="191" fill="#c9d1d9" font-size="19">Build tools. Make room for life.</text>
+<text x="40" y="243" fill="#8b949e" font-size="13" letter-spacing="2">WEB / NATIVE / DEVELOPER TOOLS</text>
+<rect x="899" y="228" width="10" height="17" fill="#7ee7b5"/>
+</g></svg>
