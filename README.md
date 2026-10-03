@@ -5,29 +5,29 @@
   <img src="./assets/orbit-vector.svg" width="960" alt="xiaomu / real-jacket — Build tools. Make room for life." />
 </picture>
 
-### 从前端出发，探索软件的更多可能。
+### 你好，我是 xiaomu。
 
-我是 **xiaomu**。关注 Web 工程、原生体验与 AI 辅助开发。喜欢打磨交互、自动化重复劳动，做自己愿意每天使用的工具。
+我从前端开发出发，最近也把不少时间花在原生应用和 AI 辅助开发上。我喜欢琢磨交互里的小细节，也喜欢把重复操作写成脚本，做一些自己每天都愿意用的工具。
 
-### 当前关注
+### 我最近关注的方向
 
-- **Web 工程** — 前端架构、类型系统与工程化，让复杂应用和开发过程保持清晰。
-- **原生体验** — SwiftUI 与 Apple 生态，打磨自然的交互和细腻的动效。
-- **开发效率** — CLI、自动化与 AI 辅助开发，把时间留给值得思考的问题。
+- **Web 工程** — 我一直在深入前端架构、类型系统和工程化，希望应用变复杂时，代码和开发流程依然清楚、顺手。
+- **原生体验** — 我在探索 SwiftUI 和 Apple 生态，尤其喜欢打磨交互与动效，让操作更自然一点。
+- **开发效率** — 我会尝试用 CLI、自动化和 AI 改善自己的工作流，把重复劳动交给工具。
 
-### 未来探索
+### 接下来，我想探索
 
-- **Agent 工作流** — 探索人与 Agent 如何共同完成开发、审查与验证。
-- **Local-first** — 关注隐私、离线能力，以及对个人数据的掌控。
-- **跨平台与全栈** — 连接 Web、桌面、原生应用，继续向服务、数据与部署深入。
+- **Agent 工作流** — 我想摸索更顺手的 AI 协作方式，让 Agent 参与开发，也把审查和验证做好。
+- **Local-first** — 我希望自己使用和构建的工具能更好地保护隐私，在离线时依然可用，让数据掌握在自己手里。
+- **跨平台与全栈** — 我想继续走出前端，深入服务、数据与部署，也探索 Web、桌面和原生应用之间的连接。
 
-### 技术与工具
+### 我常用的技术与工具
 
 **Web** &nbsp; TypeScript · React · Next.js · Node.js<br />
 **Native & Desktop** &nbsp; Swift · SwiftUI · SwiftData · Electron<br />
 **Workflow & Delivery** &nbsp; Codex · Claude Code · CLI · Docker · GitHub Actions
 
-### 编码近况
+### 我的编码近况
 
 <!--START_SECTION:waka-->
 
@@ -43,4 +43,4 @@ JavaScript   55 mins               ▓░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-保持好奇，持续构建。 &nbsp; [聊聊下一个想法](https://github.com/real-jacket/real-jacket/issues)
+如果你也喜欢折腾这些方向，欢迎[来找我聊聊](https://github.com/real-jacket/real-jacket/issues)。
