@@ -1,16 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
-<title id="title">xiaomu / real-jacket — Build tools. Make room for life.</title>
-<desc id="desc">A terminal-inspired profile header. Web, native apps and developer tools.</desc>
-<rect width="960" height="280" rx="16" fill="#0d1117"/>
-<rect x=".5" y=".5" width="959" height="279" rx="15.5" fill="none" stroke="#30363d"/>
-<path d="M0 48h960" stroke="#30363d"/>
-<g fill="#484f58"><circle cx="28" cy="24" r="5"/><circle cx="46" cy="24" r="5"/><circle cx="64" cy="24" r="5"/></g>
-<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-<text x="92" y="29" fill="#8b949e" font-size="13">~/real-jacket</text>
-<text x="908" y="29" text-anchor="end" fill="#7ee7b5" font-size="12">PROFILE.md</text>
-<text x="40" y="91" fill="#7ee7b5" font-size="15">$ whoami</text>
-<text x="38" y="150" fill="#f0f6fc" font-size="49" font-weight="700" letter-spacing="-2">xiaomu<tspan fill="#484f58"> / </tspan><tspan fill="#a5b4fc" font-size="36">real-jacket</tspan></text>
-<text x="40" y="191" fill="#c9d1d9" font-size="19">Build tools. Make room for life.</text>
-<text x="40" y="243" fill="#8b949e" font-size="13" letter-spacing="2">WEB / NATIVE / DEVELOPER TOOLS</text>
-<rect x="899" y="228" width="10" height="17" fill="#7ee7b5"/>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+<title id="title">xiaomu / real-jacket</title><desc id="desc">Developer console: web engineering, native experience and agent workflows. Build tools. Make room for life.</desc><defs>
+<linearGradient id="ink" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#080d16"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#70f0c5"/><stop offset="1" stop-color="#a5a0ff"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#7760ed" stop-opacity=".18"/><stop offset="1" stop-color="#7760ed" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b0bfff" stroke-opacity=".045"/></pattern>
+</defs>
+<style>
+text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.orbit { transform-box:fill-box; transform-origin:center; animation:orbit 32s linear infinite; }
+.signal { animation:signal 4s ease-in-out infinite; }
+.cursor { animation:blink 1.8s steps(2,start) infinite; }
+@keyframes orbit { to {transform:rotate(360deg)} }
+@keyframes signal { 0%,100% {opacity:.35} 50% {opacity:1} }
+@keyframes blink { to {opacity:0} }
+@media (prefers-reduced-motion:reduce) { .orbit,.signal,.cursor {animation:none} }
+</style>
+<rect width="960" height="340" rx="18" fill="url(#ink)"/><rect width="960" height="340" rx="18" fill="url(#grid)"/>
+<circle cx="760" cy="150" r="210" fill="url(#halo)"/><rect x=".5" y=".5" width="959" height="339" rx="17.5" fill="none" stroke="#30394c"/>
+<path d="M24 45H936" stroke="#283247"/><g fill="#475569"><circle cx="30" cy="24" r="4"/><circle cx="46" cy="24" r="4"/><circle cx="62" cy="24" r="4"/></g>
+<text x="83" y="28" fill="#91a0b8" font-size="11">real-jacket / personal workspace</text><circle cx="805" cy="24" r="3" fill="#70f0c5" class="signal"/><text x="817" y="28" fill="#70f0c5" font-size="10" letter-spacing="1">ALWAYS CURIOUS</text>
+<text x="38" y="87" fill="#70f0c5" font-size="12" letter-spacing="2">HELLO, WORLD_</text>
+<text x="34" y="155" fill="#f0f5ff" font-size="66" font-weight="700" letter-spacing="-3">xiaomu<tspan fill="#70f0c5">.</tspan></text>
+<text x="39" y="188" fill="#a5a0ff" font-size="16">@real-jacket</text>
+<text x="38" y="224" fill="#c1cddd" font-size="17">Build tools. Make room for life.</text><rect x="382" y="210" width="8" height="17" fill="#70f0c5" class="cursor"/>
+<g fill="none" stroke="#485572"><path d="M665 157h180M755 67v180" stroke-dasharray="3 7"/><circle cx="755" cy="157" r="82"/><circle cx="755" cy="157" r="56" stroke="#646688" stroke-dasharray="2 8" class="orbit"/><ellipse cx="755" cy="157" rx="114" ry="39" transform="rotate(-30 755 157)" stroke="#a5a0ff" stroke-opacity=".65"/></g>
+<circle cx="755" cy="157" r="33" fill="#101827" stroke="#70f0c5" stroke-opacity=".6"/><text x="755" y="166" text-anchor="middle" fill="#70f0c5" font-size="26">&lt;/&gt;</text>
+<g fill="#70f0c5"><circle cx="755" cy="75" r="4"/><circle cx="685" cy="199" r="4" class="signal"/><circle cx="826" cy="199" r="4"/></g>
+<g font-size="10" fill="#b9c6dc" letter-spacing="2"><text x="755" y="61" text-anchor="middle">WEB</text><text x="650" y="222">NATIVE</text><text x="814" y="222">AGENTS</text></g>
+<path d="M38 260H922" stroke="#283247"/>
+<g font-size="11"><text x="38" y="290" fill="#70f0c5">01</text><text x="66" y="290" fill="#c1cddd" letter-spacing="1">CRAFT THE EXPERIENCE</text><text x="355" y="290" fill="#a5a0ff">02</text><text x="384" y="290" fill="#c1cddd" letter-spacing="1">AUTOMATE THE BORING</text><text x="672" y="290" fill="#70f0c5">03</text><text x="701" y="290" fill="#c1cddd" letter-spacing="1">KEEP EXPLORING</text></g>
+<path d="M38 316H922" stroke="url(#accent)" stroke-width="2"/>
+</svg>

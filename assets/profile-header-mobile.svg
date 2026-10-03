@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320" role="img" aria-labelledby="title"><title id="title">xiaomu / real-jacket — web, native, agents</title><defs>
+<linearGradient id="ink" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#080d16"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#70f0c5"/><stop offset="1" stop-color="#a5a0ff"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#7760ed" stop-opacity=".18"/><stop offset="1" stop-color="#7760ed" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b0bfff" stroke-opacity=".045"/></pattern>
+</defs>
+<style>
+text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.orbit { transform-box:fill-box; transform-origin:center; animation:orbit 32s linear infinite; }
+.signal { animation:signal 4s ease-in-out infinite; }
+.cursor { animation:blink 1.8s steps(2,start) infinite; }
+@keyframes orbit { to {transform:rotate(360deg)} }
+@keyframes signal { 0%,100% {opacity:.35} 50% {opacity:1} }
+@keyframes blink { to {opacity:0} }
+@media (prefers-reduced-motion:reduce) { .orbit,.signal,.cursor {animation:none} }
+</style>
+<rect width="480" height="320" rx="16" fill="url(#ink)"/><rect width="480" height="320" rx="16" fill="url(#grid)"/><rect x=".5" y=".5" width="479" height="319" rx="15.5" stroke="#30394c" fill="none"/>
+<circle cx="435" cy="180" r="160" fill="url(#halo)"/><path d="M22 44H458" stroke="#283247"/>
+<g fill="#475569"><circle cx="26" cy="23" r="4"/><circle cx="42" cy="23" r="4"/><circle cx="58" cy="23" r="4"/></g><text x="78" y="28" fill="#91a0b8" font-size="12">~/real-jacket</text>
+<text x="28" y="86" fill="#70f0c5" font-size="13" letter-spacing="2">HELLO, WORLD_</text><text x="24" y="153" fill="#f0f5ff" font-size="65" font-weight="700" letter-spacing="-3">xiaomu<tspan fill="#70f0c5">.</tspan></text><text x="29" y="184" fill="#a5a0ff" font-size="17">@real-jacket</text>
+<text x="28" y="221" fill="#c1cddd" font-size="16">Build tools. Make room for life.</text><rect x="349" y="207" width="8" height="16" fill="#70f0c5" class="cursor"/>
+<path d="M28 249H452" stroke="#283247"/><circle cx="33" cy="277" r="4" fill="#70f0c5" class="signal"/><text x="48" y="282" fill="#c1cddd" font-size="13" letter-spacing="2">WEB / NATIVE / AGENTS</text><path d="M28 303H452" stroke="url(#accent)" stroke-width="2"/></svg>
