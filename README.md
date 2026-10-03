@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
-  <img src="./assets/profile-header.svg" width="960" alt="xiaomu / real-jacket — Build tools. Make room for life." />
+  <img src="./assets/profile-console.svg" width="960" alt="xiaomu / real-jacket — Build tools. Make room for life." />
 </picture>
 
 <p align="center">
