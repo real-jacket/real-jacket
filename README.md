@@ -32,13 +32,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2026 - To: 02 October 2026
+From: 26 September 2026 - To: 03 October 2026
 
-Swift        13 hrs 36 mins        ███████████▒░░░░░░░░░░░░░   44.98 %
-Other        7 hrs 18 mins         ██████░░░░░░░░░░░░░░░░░░░   24.17 %
-Markdown     5 hrs 59 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-TypeScript   1 hr 31 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-JavaScript   55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Other        7 hrs 18 mins         █████████▒░░░░░░░░░░░░░░░   37.28 %
+Swift        5 hrs 18 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.06 %
+Markdown     4 hrs 8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+TypeScript   1 hr 31 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+JavaScript   55 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
