@@ -5,31 +5,31 @@
   <img src="./assets/orbit-vector.svg" width="960" alt="xiaomu / real-jacket — Build tools. Make room for life." />
 </picture>
 
-**English** | [简体中文](./README.zh-CN.md)
+[English](./README.md) | **简体中文**
 
-### Hi, I'm xiaomu.
+### 你好，我是 xiaomu。
 
-With a background in frontend development, I'm also exploring native apps and AI-assisted development. I enjoy refining interactions, scripting repetitive tasks, and building tools I want to use every day.
+从前端开发出发，也在探索原生应用和 AI 辅助开发。喜欢打磨交互、把重复操作写成脚本，做自己每天都愿意用的工具。
 
-### Current interests
+### 最近在关注
 
-- **Web engineering** — Exploring frontend architecture, type systems, and tooling to keep complex applications and development workflows clear.
-- **Native experiences** — Exploring SwiftUI and the Apple ecosystem, with a focus on natural interactions and thoughtful motion.
-- **Developer productivity** — Using CLIs, automation, and AI to improve my workflow and let tools handle repetitive work.
+- **Web 工程** — 深入前端架构、类型系统与工程化，让复杂应用的代码和开发流程保持清晰。
+- **原生体验** — 探索 SwiftUI 与 Apple 生态，打磨自然的交互和细腻的动效。
+- **开发效率** — 用 CLI、自动化和 AI 改善自己的工作流，把重复劳动交给工具。
 
-### What's next
+### 接下来想探索
 
-- **Agent workflows** — Finding better ways to collaborate with AI agents while keeping review and verification part of the process.
-- **Local-first** — Building tools that respect privacy, work offline, and keep me in control of my data.
-- **Cross-platform & full-stack** — Going deeper into services, data, and deployment, and exploring connections between web, desktop, and native apps.
+- **Agent 工作流** — 找到更顺手的 AI 协作方式，让 Agent 参与开发，也做好审查与验证。
+- **Local-first** — 构建注重隐私、离线可用的工具，把数据掌握在自己手里。
+- **跨平台与全栈** — 从前端继续向服务、数据与部署深入，探索 Web、桌面和原生应用之间的连接。
 
-### Tools I use
+### 常用技术与工具
 
 **Web** · TypeScript · React · Next.js · Node.js<br />
 **Native & Desktop** · Swift · SwiftUI · SwiftData · Electron<br />
 **Workflow & Delivery** · Codex · Claude Code · CLI · Docker · GitHub Actions
 
-### Recent coding activity
+### 编码近况
 
 <!--START_SECTION:waka-->
 
@@ -45,4 +45,4 @@ JavaScript   55 mins               █▒░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-If you enjoy exploring these areas too, [let's talk](https://github.com/real-jacket/real-jacket/issues).
+如果你也喜欢折腾这些方向，欢迎[来找我聊聊](https://github.com/real-jacket/real-jacket/issues)。
