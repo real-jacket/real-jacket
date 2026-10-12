@@ -34,9 +34,13 @@ With a background in frontend development, I'm also exploring native apps and AI
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2026 - To: 10 October 2026
+From: 04 October 2026 - To: 11 October 2026
 
-No activity tracked
+Other        20 hrs 3 mins         █████████████░░░░░░░░░░░░   51.65 %
+Swift        5 hrs 57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+JavaScript   5 hrs 28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Markdown     2 hrs 43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Diff         2 hrs 30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
 ```
 
 <!--END_SECTION:waka-->
