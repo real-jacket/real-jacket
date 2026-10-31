@@ -34,13 +34,13 @@ With a background in frontend development, I'm also exploring native apps and AI
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2026 - To: 29 October 2026
+From: 23 October 2026 - To: 30 October 2026
 
-Other         9 hrs 44 mins         ██████████████▒░░░░░░░░░░   57.24 %
-Markdown      3 hrs 24 mins         █████░░░░░░░░░░░░░░░░░░░░   20.07 %
-Image (png)   1 hr 21 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-TypeScript    1 hr 8 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-JavaScript    1 hr                  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Markdown      2 hrs 54 mins         ███████████▓░░░░░░░░░░░░░   46.83 %
+Image (png)   1 hr 21 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
+JavaScript    1 hr                  ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+TypeScript    37 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Other         17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
 
 <!--END_SECTION:waka-->
